@@ -1,0 +1,32 @@
+//      ************************************************ 
+//      **            Code & Design by KenMad         **
+//      **         Copyright®  KenMadGaming®          **
+//      ** Https://www.facebook.com/kenmad.kenmad     **
+//      **             Https://kenmad.xyz             **
+//      **                 23/3/2017   :)             **
+//      **                                            **
+//      ************************************************ 
+
+{
+  "name": "facebook-chat-user",
+  "version": "1.1.1",
+  "description": "Facebook-chat-user code by KenMad",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "facebook-chat-api": "^1.1.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenmadstudent/facebook-chat-user.git"
+  },
+  "author": "KenMad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenmadstudent/facebook-chat-user/issues"
+  },
+  "homepage": "https://github.com/kenmadstudent/facebook-chat-user#readme"
+}
